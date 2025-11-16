@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Vivian Akpoke  
 
-💻 *Fullstack Developer | Next.js • NestJS • Python • PHP • MongoDB • Postgres • MySQL*  
+💻 *Fullstack Developer*  
 
 I build high-performance, secure, and scalable web applications.  
 With 3+ years of experience, I specialize in architecting fullstack systems that are both beautiful on the front and bulletproof on the back.  
