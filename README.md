@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm Vivian Akpoke
 
-### 💻 Fullstack Developer | Tech Lead | Problem Solver
+### 💻 Fullstack Developer | Problem Solver
 
 I build high-performance, secure, and scalable web applications.  
 With 3+ years of experience, I specialize in architecting fullstack systems that are both beautiful on the front and bulletproof on the back.
@@ -17,7 +17,7 @@ With 3+ years of experience, I specialize in architecting fullstack systems that
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amivian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -29,7 +29,7 @@ With 3+ years of experience, I specialize in architecting fullstack systems that
 
 ## 💻 Most Used Programming Languages
 
-<div align="center">
+<div align="left">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amivian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
