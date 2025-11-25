@@ -45,7 +45,6 @@ With 3+ years of experience, I specialize in architecting fullstack systems that
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,7 +53,6 @@ With 3+ years of experience, I specialize in architecting fullstack systems that
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -75,14 +73,14 @@ With 3+ years of experience, I specialize in architecting fullstack systems that
 
 ---
 
-## 🚀 Professional Highlights
+## Professional Highlights
 
-- 🎯 Delivered **15+ production-grade fullstack applications** for enterprise and consumer clients
-- 👥 Experience leading teams as **AppDev Team Lead** (Tros Technologies LTD, 2022–2025)
-- 🔐 Implemented JWT/OAuth2 authentication, performance tuning, and database optimization
-- 🌐 Adept in multi-language backends: JavaScript, TypeScript, Python, and PHP
-- ⚡ Specialized in microservices architecture and RESTful API design
-- 🎨 Strong focus on accessibility standards and responsive design
+- Delivered **15+ production-grade fullstack applications** for enterprise and consumer clients
+- Experience leading teams as **AppDev Team Lead** (Tros Technologies LTD, 2022–2025)
+- Implemented JWT/OAuth2 authentication, performance tuning, and database optimization
+- Adept in multi-language backends: JavaScript, TypeScript, Python, and PHP
+- Specialized in microservices architecture and RESTful API design
+- Strong focus on accessibility standards and responsive design
 
 ---
 
@@ -94,30 +92,19 @@ With 3+ years of experience, I specialize in architecting fullstack systems that
 
 </div>
 
----
 
-## 📈 Contribution Graph
+## What I'm Currently Working On
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amivian&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 💡 What I'm Currently Working On
-
-- 🔭 Building scalable microservices with NestJS
-- 🌱 Exploring advanced DevOps practices and container orchestration
-- 👯 Open to collaborating on fullstack projects and open-source initiatives
-- 💬 Ask me about fullstack architecture, API design, or team leadership
+- Building scalable microservices with NestJS
+- Exploring advanced DevOps practices and container orchestration
+- Open to collaborating on fullstack projects and open-source initiatives
+- Gaining nowledge on industry best practices 
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 **Open to freelance opportunities, collaborations, and tech discussions**
 
