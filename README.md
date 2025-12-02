@@ -37,6 +37,7 @@
 <h1>Hi, I'm Vivian Akpoke </h1>
 
 <h3>Fullstack Developer</h3>
+
 ### 🔹 About Me  
 I am a **Fullstack Developer** passionate about crafting **secure**, **scalable**, and **elegant** web systems.  
 With **3+ years of professional experience**, I build robust applications that beautifully combine frontend excellence with bulletproof backend engineering.
@@ -45,7 +46,8 @@ With **3+ years of professional experience**, I build robust applications that b
 - **Location**: Lagos, Nigeria  
 - **Focus Areas**: Secure web systems, scalable architecture, clean engineering patterns  
 - **Interests**: Problem solving, automation, system design, developer tooling  
-- Open to collaboration on impactful full-stack & backend focused projects  
+- Open to collaboration on impactful full-stack & backend focused projects
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivian-akpoke)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tinyurl.com/vivian-akpoke)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiviann@gmail.com)
