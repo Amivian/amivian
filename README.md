@@ -1,6 +1,6 @@
 <div align="left">
 
-# 👋 Hi, I'm Vivian Akpoke
+# Hi, I'm Vivian Akpoke
 
 ### 💻 Fullstack Developer | Problem Solver
 
