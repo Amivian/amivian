@@ -34,11 +34,11 @@
 <div align="left">
 
 
-<h1>Hi, I'm Vivian Akpoke <br/>
-<h3>Fullstack Developer</h3>
-</h1>
----
+<h1>Hi, I'm Vivian Akpoke </h1>
 
+
+---
+<h3>Fullstack Developer</h3>
 ### 🔹 About Me  
 I am a **Fullstack Developer** passionate about crafting **secure**, **scalable**, and **elegant** web systems.  
 With **3+ years of professional experience**, I build robust applications that beautifully combine frontend excellence with bulletproof backend engineering.
