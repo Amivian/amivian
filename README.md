@@ -1,3 +1,5 @@
+
+<meta name="msvalidate.01" content="EB25D69F58C380504E40BAC20DED556E" />
 <!-- ======================= -->
 <!--   SEO & Social Metadata   -->
 <!-- ======================= -->
@@ -32,9 +34,9 @@
 <div align="left">
 
 
-<h1 >Hi, I'm Vivian Akpoke</h1>
+<h1>Hi, I'm Vivian Akpoke <br/>
 <h3>Fullstack Developer</h3>
-
+</h1>
 ---
 
 ### 🔹 About Me  
