@@ -1,4 +1,4 @@
-
+<meta name="google-site-verification" content="_fxgyppX1J7drD3sdJGMxtKYVB4Z_fD1Tw0-5So0_BU" />
 <meta name="msvalidate.01" content="EB25D69F58C380504E40BAC20DED556E" />
 <!-- ======================= -->
 <!--   SEO & Social Metadata   -->
@@ -36,8 +36,6 @@
 
 <h1>Hi, I'm Vivian Akpoke </h1>
 
-
----
 <h3>Fullstack Developer</h3>
 ### 🔹 About Me  
 I am a **Fullstack Developer** passionate about crafting **secure**, **scalable**, and **elegant** web systems.  
