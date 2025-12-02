@@ -32,8 +32,8 @@
 <div align="left">
 
 
-<h1 align="center">Hi, I'm Vivian Akpoke</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h1 >Hi, I'm Vivian Akpoke</h1>
+<h3>Fullstack Developer</h3>
 
 ---
 
