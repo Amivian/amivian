@@ -36,9 +36,7 @@
 
 <h1>Hi, I'm Vivian Akpoke </h1>
 
-<h3>Fullstack Developer</h3>
-
-I'm passionate about crafting secure, scalable, and maintainable web applications. With 3+ years of hands-on experience.
+A Fullstack Developer actively mastering the art of building production-grade, high-performance systems that scale.
 
 -  **Role**: Fullstack Developer  
 - **Location**: Lagos, Nigeria  
