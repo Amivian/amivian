@@ -38,9 +38,7 @@
 
 <h3>Fullstack Developer</h3>
 
-### 🔹 About Me  
-I am a **Fullstack Developer** passionate about crafting **secure**, **scalable**, and **elegant** web systems.  
-With **3+ years of professional experience**, I build robust applications that beautifully combine frontend excellence with bulletproof backend engineering.
+I'm passionate about crafting secure, scalable, and maintainable web applications. With 3+ years of hands-on experience.
 
 -  **Role**: Fullstack Developer  
 - **Location**: Lagos, Nigeria  
