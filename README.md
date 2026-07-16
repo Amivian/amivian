@@ -113,9 +113,8 @@ A Fullstack Developer actively mastering the art of building production-grade, h
 ## Professional Highlights
 
 - Delivered **15+ production-grade fullstack applications** for enterprise and consumer clients
-- Experience leading teams as **AppDev Team Lead** (Tros Technologies LTD, 2022–2025)
 - Implemented JWT/OAuth2 authentication, performance tuning, and database optimization
-- Adept in multi-language backends: JavaScript, TypeScript, Python, and PHP
+- Adept in multi-language backends: Nestjs, Python, and PHP
 - Specialized in microservices architecture and RESTful API design
 - Strong focus on accessibility standards and responsive design
 
